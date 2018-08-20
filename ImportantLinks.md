@@ -9,3 +9,5 @@ Helps with diagnosing issues in Web App Containers.  Used for git integration.
 
 #### [Azure Patterns and Practices](https://www.redpixie.com/hubfs/MS_Cloud_Design_Patterns_Infographic_2015.pdf?t=1534448897743)
 Nice one-pager on patterns such as sharding, etc.
+
+[Linux Academy Courses](https://linuxacademy.com)
