@@ -1,5 +1,5 @@
-## Design Compute Infrastructure (20-25%)
-### Design solutions using virtual machines (VMs)
+### Design Compute Infrastructure (20-25%)
+#### Design solutions using virtual machines (VMs)
 - Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
 - Use web app for containers
 - design VM Scale Sets
