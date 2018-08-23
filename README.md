@@ -7,7 +7,7 @@
   - Web App for Containers
   - https://azure.microsoft.com/en-us/blog/webapp-for-containers-overview/
 - design VM Scale Sets
-- design for compute-intensive tasks using [Azure Batch](.\Batch.md) and Azure Batch AI
+- design for compute-intensive tasks using [Azure Batch](Batch.md) and Azure Batch AI
 - define a migration strategy from cloud services
 - determine when to use reserved instances
 - design for VMs in a DevTest Lab environment (including formulas, images, artifacts, claiming and un-claiming VMs)
