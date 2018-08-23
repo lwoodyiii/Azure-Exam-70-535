@@ -6,6 +6,14 @@
   - Web App for Containers
   - https://azure.microsoft.com/en-us/blog/webapp-for-containers-overview/
 - design VM Scale Sets
+- design for compute-intensive tasks using Azure Batch and Azure Batch AI
+- define a migration strategy from cloud services
+- determine when to use reserved instances
+- design for VMs in a DevTest Lab environment (including formulas, images, artifacts, claiming and un-claiming VMs)
+- determine when to use Accelerated Networking
+- recommend use of Azure Backup and Azure Site Recovery including support for Linux in Azure Backup and integrating Azure Backup in the VM creation process
+- recommend when to use availability zones
+
 
 ## Design Data Implementation (15-20%)
 ## Design Networking Implementation (15-20%)
