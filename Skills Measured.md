@@ -1,7 +1,7 @@
 ## Design Compute Infrastructure (20-25%)
 ### Design solutions using virtual machines (VMs)
 - Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
-- Use web app for containers (Azure App Service Web Apps (or just Web Apps))
+- Use web app for containers
   - Azure App Service on Linux (Web App with built-in images)
   - Web App for Containers
   - https://azure.microsoft.com/en-us/blog/webapp-for-containers-overview/
