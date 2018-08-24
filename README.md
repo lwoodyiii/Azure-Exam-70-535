@@ -2,7 +2,7 @@
 ## Design Compute Infrastructure (20-25%)
 ### Design solutions using virtual machines (VMs)
 - Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
-- Use [Web App for Containers]("Web App Containers.md")
+- Use [Web App for Containers](Batch.md)
 - design VM Scale Sets
 - design for compute-intensive tasks using [Azure Batch](Batch.md) and Azure Batch AI
 - define a migration strategy from cloud services
