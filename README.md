@@ -3,9 +3,6 @@
 ### Design solutions using virtual machines (VMs)
 - Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
 - Use web app for containers
-  - Azure App Service on Linux (Web App with built-in images)
-  - Web App for Containers
-  - https://azure.microsoft.com/en-us/blog/webapp-for-containers-overview/
 - design VM Scale Sets
 - design for compute-intensive tasks using [Azure Batch](Batch.md) and Azure Batch AI
 - define a migration strategy from cloud services
