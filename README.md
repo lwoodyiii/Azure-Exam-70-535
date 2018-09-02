@@ -44,7 +44,7 @@ Determine when to use:
 - design a backup and recovery strategy
 - design optimization strategies for Azure SQL Data Warehouse columnar storage
 ### Design for NoSQL storage
-### Design for CosmosDB storage
+### Design for [CosmosDB](CosmosDB.md) storage
 ## Design Networking Implementation (15-20%)
 ### Design Azure virtual networks
 - Design solutions that use Azure networking services: design for load balancing using Azure Load Balancer and Azure Traffic Manager; - define DNS, DHCP, and IP strategies; 
