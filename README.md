@@ -30,7 +30,19 @@
 - consider migrating existing assets versus cloud native deployment; 
 - design lifecycle management strategies
 ### Design web applications
-Design Azure App Service Web Apps; design custom web API; secure Web API; design Web Apps for scalability and performance; design for high availability using Azure Web Apps in multiple regions; determine which App service plan to use; design Web Apps for business continuity; determine when to use Azure App Service Isolated; design for API apps; determine when to use API management service; determine when to use Web Apps on Linux; determine when to use a CDN; determine when to use a cache, including Azure Redis cache
+- Design Azure App Service Web Apps
+- design custom web API
+- secure Web API
+- design Web Apps for scalability and performance
+- design for high availability using Azure Web Apps in multiple regions
+- determine which App service plan to use
+- design Web Apps for business continuity
+- determine when to use Azure App Service Isolated
+- design for API apps
+- determine when to use API management service
+- determine when to use Web Apps on Linux
+- determine when to use a CDN
+- determine when to use a cache, including Azure Redis cache
 ### Create compute-intensive applications
 Design high-performance computing (HPC) and other compute-intensive applications using Azure Services; determine when to use Azure Batch; design stateless components to accommodate scale; design lifecycle strategy for Azure Batch; design solution that implement low priority batching and job task counting
 ## Design Data Implementation (15-20%)
