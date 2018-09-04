@@ -59,6 +59,13 @@ Determine when to use:
 - Azure Storage Service Encryption
 - Azure StorSimple
 ### Design for Azure Data Services
+Determine when to use:
+- Azure Data Catalog
+- Azure Data Factory
+- Azure SQL Data Warehouse
+- Azure Data Lake Analytics
+- Azure Analysis Services
+- Azure HDInsight
 ### Design for relational database storage
 - Determine when to use Azure SQL Database and SQL Server Stretch Database
 - design for scalability and features
@@ -67,7 +74,17 @@ Determine when to use:
 - design a backup and recovery strategy
 - design optimization strategies for Azure SQL Data Warehouse columnar storage
 ### Design for NoSQL storage
+Determine when to use:
+- Azure Redis Cache
+- Azure Table Storage
+- Azure Data Lake
+- Azure Search
+- Time Series Insights
+----------
+- design pipelines for managing recurring jobs
 ### Design for [CosmosDB](CosmosDB.md) storage
+- Determine when to use MongoDB API, Azure Cosmos DB SQL API, Graph API, Azure Tables API
+- design for cost, performance, data consistency, availability, and business continuity
 ## Design Networking Implementation (15-20%)
 ### Design Azure virtual networks
 - Design solutions that use Azure networking services: design for load balancing using Azure Load Balancer and Azure Traffic Manager
