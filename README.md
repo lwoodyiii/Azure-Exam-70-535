@@ -189,12 +189,12 @@ Determine when to use:
 - design TCP connections
 ### Design an operations automation strategy
 - Determine when to use: 
-  - Azure Automation, 
-  - Chef, 
-  - Puppet, 
-  - PowerShell, 
-  - Azure Automation (DSC), 
-  - Event Grid,
+  - [Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro) A configuration management tool that allows for [run books](https://en.wikipedia.org/wiki/Runbook), Inventory Tracking, Update Management, and Desired State monitoring.
+  - Chef
+  - Puppet 
+  - PowerShell 
+  - Azure Automation (DSC) 
+  - Event Grid
   - Azure Logic Apps
 - define a strategy for auto-scaling; 
 - define a strategy for enabling periodic processes and tasks; 
