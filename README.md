@@ -159,7 +159,20 @@ Determine when to use:
 - Design a messaging architecture; 
 - determine when to use 
   - Azure Storage Queues, 
-  - Azure Service Bus, Azure Event Hubs, Azure Event Grid, Azure Relay, Azure Functions, and Azure Logic Apps; design a push notification strategy for Mobile Apps; design for performance and scale
+  - Azure Service Bus, 
+  - Azure Event Hubs, 
+  - Azure Event Grid, 
+  - Azure Relay, 
+  - Azure Functions
+  - Azure Logic Apps
+- design a push notification strategy for Mobile Apps
+- design for performance and scale
 ### Design for media service solutions
-Define solutions using Azure Media Services, video indexer, video API, computer vision API, preview, and other media related services; design solutions that use file-based encoding or Azure Media Analytics
+- Define solutions using:
+  - Azure Media Services
+  - video indexer
+  - video API, 
+  - computer vision API, 
+  - preview, and other media related services
+- design solutions that use file-based encoding or Azure Media Analytics
 ## Design for Operations (10-15%)
