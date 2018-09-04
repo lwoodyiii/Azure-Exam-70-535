@@ -10,9 +10,9 @@
 - design for VMs in a DevTest Lab environment (including formulas, images, artifacts, claiming and un-claiming VMs)
 - determine when to use Accelerated Networking
 - recommend use of Azure Backup and Azure Site Recovery including support for Linux in Azure Backup and integrating Azure Backup in the VM creation process
-- recommend when to use availability zones
+- recommend when to use [availability zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
 ### Design solutions for serverless computing
-- Use Azure Functions to implement event-driven actions
+- Use [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) to implement event-driven actions
 - design data storage solutions for serverless computing
 - design for serverless computing using Azure Container Instances
 - design application solutions by using Azure Logic Apps, Azure Functions, or both
