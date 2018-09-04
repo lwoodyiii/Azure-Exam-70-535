@@ -189,13 +189,13 @@ Determine when to use:
 - design TCP connections
 ### Design an operations automation strategy
 - Determine when to use: 
-  - [Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro) A configuration management tool that allows for [run books](https://en.wikipedia.org/wiki/Runbook), Inventory Tracking, Update Management, and Desired State monitoring.
-  - Chef
-  - Puppet 
-  - PowerShell 
-  - Azure Automation (DSC) 
-  - Event Grid
-  - Azure Logic Apps
-- define a strategy for auto-scaling; 
-- define a strategy for enabling periodic processes and tasks; 
-- define an update management strategy
+  - [Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro) - A configuration management tool that allows for [Run Books](https://en.wikipedia.org/wiki/Runbook), Inventory Tracking, Update Management, and Desired State monitoring.
+  - [Chef](https://en.wikipedia.org/wiki/Chef_(software)) - [In-Depth Overview](https://docs.chef.io/chef_overview.html); Uses cookbooks and recipes.
+  - Puppet - [Open Source Puppet](https://puppet.com/docs/puppet/5.5/architecture.html) uses catalogs with resources and desired states within them. There is a commerical company that produces Puppet Discovery for Inventory Management and Puppet Enterprise for configuration management.
+  - PowerShell - You can use just PowerShell or [PowerShell DSC](https://docs.microsoft.com/en-us/powershell/dsc/overview). Comparison of [Powershell vs. Powershell DSC](https://docs.microsoft.com/en-us/powershell/dsc/dscforengineers#i-have-powershell-why-do-i-need-desired-state-configuration).
+  - [Azure Automation (DSC)](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview) 
+  - [Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/overview) - Can notify Azure Automation when a VM or DB is spun up, for example.
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview) - For more complex logic on 
+- Define a strategy for auto-scaling; 
+- Define a strategy for enabling periodic processes and tasks; 
+- Define an update management strategy
