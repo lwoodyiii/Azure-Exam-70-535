@@ -176,3 +176,26 @@ Determine when to use:
   - preview, and other media related services
 - design solutions that use file-based encoding or Azure Media Analytics
 ## Design for Operations (10-15%)
+### Design an application monitoring and alerting strategy
+- Determine the appropriate Microsoft products and services for monitoring applications on Azure; 
+- define solutions for analyzing logs and enabling alerts using Azure Log Analytics; 
+- define solutions for analyzing performance metrics and enabling alerts using Azure Monitor; 
+- define a solution for monitoring applications and enabling alerts using Application Insights
+### Design a platform monitoring and alerting strategy
+- Determine the appropriate Microsoft products and services for monitoring Azure platform solutions; 
+- define a monitoring solution using Azure Health, Azure Advisor, and Activity Log; 
+- define a monitoring solution for Azure Networks using Log Analytics and Network Watcher service; 
+- monitor security with Azure Security Center; 
+- design TCP connections
+### Design an operations automation strategy
+- Determine when to use: 
+  - Azure Automation, 
+  - Chef, 
+  - Puppet, 
+  - PowerShell, 
+  - Azure Automation (DSC), 
+  - Event Grid,
+  - Azure Logic Apps
+- define a strategy for auto-scaling; 
+- define a strategy for enabling periodic processes and tasks; 
+- define an update management strategy
