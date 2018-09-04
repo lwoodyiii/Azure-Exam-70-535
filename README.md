@@ -1,7 +1,7 @@
 # Azure-Exam-70-535
 ## Design Compute Infrastructure (20-25%)
 ### Design solutions using virtual machines (VMs)
-- Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
+- Design VM deployments by leveraging [availability sets](AvailabilitySet.md), fault domains, and update domains in Azure
 - Use [Web App for Containers](WebAppForContainers.md)
 - design VM Scale Sets
 - design for compute-intensive tasks using [Azure Batch](Batch.md) and Azure Batch AI
