@@ -87,11 +87,14 @@ Determine when to use:
 - design for cost, performance, data consistency, availability, and business continuity
 ## Design Networking Implementation (15-20%)
 ### Design Azure virtual networks
-- Design solutions that use Azure networking services: design for load balancing using Azure Load Balancer and Azure Traffic Manager
-- define DNS, DHCP, and IP strategies 
-- determine when to use Azure Application Gateway 
-- determine when to use virtual network (VNet) service endpoints 
-- determine when to use multi-node application gateways, Traffic Manager and load balancers
+- Design solutions that use Azure networking services:
+  - design for load balancing using:
+    - [Azure Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview) 
+    - [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview) - DNS Load Balancer
+  - define DNS, DHCP, and IP strategies 
+  - determine when to use [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-introduction) - Application Layer (OSI 7) router and firewall 
+  - determine when to use virtual network (VNet) service endpoints 
+  - determine when to use multi-node application gateways, Traffic Manager and load balancers
 ### Design external connectivity for Azure Virtual Networks
 - Determine when to use Azure VPN, Azure ExpressRoute and Virtual Network Peering architecture and design; 
 - determine when to use User Defined Routes (UDRs); 
