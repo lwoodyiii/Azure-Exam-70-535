@@ -1,6 +1,9 @@
-# Azure-Exam-70-535
+# Microsoft Exam 70-535 Study Guide 
+This project is a study guide to Exam 70-535 *Architecting Microsoft Azure Solutions*. Below is a Table of Contents that has links to all different parts of the Exam. Everything on the [official site for the exam](https://www.microsoft.com/en-us/learning/exam-70-535.aspx) is found here verbatim. This, however, is presented in an outline style with links to documentation on each Azure resource in the exam. Enjoy!
 
-- [Azure-Exam-70-535](#azure-exam-70-535)
+### TABLE OF CONTENTS
+- [Microsoft Exam 70-535 Study Guide](#microsoft-exam-70-535-study-guide)
+    - [TABLE OF CONTENTS](#table-of-contents)
   - [Design Compute Infrastructure (20-25%)](#design-compute-infrastructure-20-25)
     - [Design solutions using virtual machines (VMs)](#design-solutions-using-virtual-machines-vms)
     - [Design solutions for serverless computing](#design-solutions-for-serverless-computing)
