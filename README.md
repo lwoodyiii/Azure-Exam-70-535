@@ -25,7 +25,7 @@
 - determine when Azure Service Fabric (ASF) is appropriate; 
 - determine when Azure Functions is appropriate; 
 - determine when to use API management service; 
-- determine when Web API is appropriate; 
+- determine when Web API is appropriate - doesn't really exist any more as a standalone offering. Has been folded into Azure App Services -> Web Apps.
 - determine which platform is appropriate for container orchestration; 
 - consider migrating existing assets versus cloud native deployment; 
 - design lifecycle management strategies
@@ -56,7 +56,7 @@ Determine when to use:
 - Azure Files
 - disks
 - Azure Data Box
-- Azure Storage Service Encryption
+- Azure Storage Service Encryption - Automatic. Can use KeyVault to store your own key rather than use MS keys.
 - Azure StorSimple
 ### Design for Azure Data Services
 Determine when to use:
@@ -93,7 +93,7 @@ Determine when to use:
     - [Azure Traffic Manager](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview) - DNS Load Balancer
   - define DNS, DHCP, and IP strategies 
   - determine when to use [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-introduction) - Application Layer (OSI 7) router and firewall 
-  - determine when to use virtual network (VNet) service endpoints 
+  - determine when to use [virtual network (VNet) service endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview) 
   - determine when to use multi-node application gateways, Traffic Manager and load balancers
 ### Design external connectivity for Azure Virtual Networks
 - Determine when to use Azure VPN, Azure ExpressRoute and Virtual Network Peering architecture and design; 
@@ -107,7 +107,7 @@ Determine when to use:
 - determine when to use a Web Application Firewall (WAF), Network Security Group (NSG), and virtual network service tunneling; 
 - organize resources by designing solutions that use service tags
 ### Design connectivity for hybrid applications
-- Design connectivity to on-premises data from Azure applications using Azure Relay Service, Azure Data Management Gateway for Data Factory, Azure On-Premises Data Gateway, Hybrid Connections, or Azure Web App’s virtual private network (VPN) capability; 
+- Design connectivity to on-premises data from Azure applications using [Azure Relay Service](https://docs.microsoft.com/en-us/azure/service-bus-relay/relay-what-is-it), Azure Data Management Gateway for Data Factory, Azure On-Premises Data Gateway, Hybrid Connections, or Azure Web App’s virtual private network (VPN) capability; 
 - identify constraints for connectivity with VPN; 
 - identify options for joining VMs to domains
 ## Design Security and Identity Solutions (20-25%)
