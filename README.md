@@ -39,7 +39,7 @@ This project is a study guide to Exam 70-535 *Architecting Microsoft Azure Solut
 ### Design solutions using virtual machines (VMs)
 - Design VM deployments by leveraging [availability sets](AvailabilitySet.md), fault domains, and update domains in Azure
 - Use [Web App for Containers](WebAppForContainers.md)
-- Design VM Scale Sets
+- Design [VM Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 - Design for compute-intensive tasks using [Azure Batch](Batch.md) and Azure Batch AI
 - Define a migration strategy from cloud services
 - Determine when to use reserved instances
