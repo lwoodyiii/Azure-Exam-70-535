@@ -1,5 +1,5 @@
 # Microsoft Exam 70-535 Study Guide <!-- omit in toc -->
-This project is a study guide to Exam 70-535 *Architecting Microsoft Azure Solutions*. Below is a Table of Contents that has links to all different parts of the Exam. Everything on the [official site for the exam](https://www.microsoft.com/en-us/learning/exam-70-535.aspx) is found here verbatim. This, however, is presented in an outline style with links to documentation on each Azure resource in the exam. Enjoy!
+This project is a study guide to Exam 70-535 *Architecting Microsoft Azure Solutions*. Below is a Table of Contents that has links to all different parts of the Exam. Everything on the [official site for the exam](https://www.microsoft.com/en-us/learning/exam-70-535.aspx) is found here verbatim. This, however, is presented in an outline style with links to documentation on each Azure resource in the exam. Enjoy! Although it looks like this exam is going away in December 2018 :(
 
 ### TABLE OF CONTENTS <!-- omit in toc -->
 - [Design Compute Infrastructure (20-25%)](#design-compute-infrastructure-20-25)
