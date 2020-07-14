@@ -118,7 +118,7 @@ Determine when to use:
 - Time Series Insights
 ----------
 - Design pipelines for managing recurring jobs
-### Design for [CosmosDB](CosmosDB.md) storage
+### Design for [CosmosDB](Cosmos.md) storage
 - Determine when to use MongoDB API, Azure Cosmos DB SQL API, Graph API, Azure Tables API
 - Design for cost, performance, data consistency, availability, and business continuity
 ## Design Networking Implementation (15-20%)
